@@ -1,0 +1,143 @@
+body {
+    background-color: black;
+}
+table.important {
+    border-color: red;
+    background-color:tan;
+}
+
+
+br {
+    font-size: large;
+    color: rgb(0, 119, 255);
+}
+marquee.important {
+    font-style: oblique;
+    color: red;
+    font-size: 30px;
+    text-transform: none;
+}
+marquee.intro {
+    font-style:normal;
+    color: seagreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+
+}
+h1.important  { color: red;
+
+}
+select {
+    background-color: tomato;
+    font-size: 20px;
+    width: 200px;
+}
+input {
+    background-color: blanchedalmond;
+}
+button {
+    background-color: rgb(226, 43, 180);
+}
+caption{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: midnightblue;
+    
+}
+table.intro{
+    border-color: black;
+}
+abbr{
+    font-size: 40px;
+    color: rgb(4, 0, 252);
+}
+address{
+    font-size: 32px;
+    color: blue;
+    font-style: italic;
+}
+article{
+    font-size: 15px;
+    color: blueviolet;
+}
+p.important{
+    font-size: 20px;
+    color:red;
+    font-style: oblique;
+}
+p.intro{
+    color: darkblue;
+}
+p.line{
+    color: darkblue;
+}
+form{
+    color: crimson;
+}
+th.name1{
+    background-color:white;
+}
+th.c1{
+    background-color: white;
+}
+th.r1{
+    background-color: white;
+}
+th.g1{
+    background-color: white;
+}
+td.samiul1{
+    background-color: violet;
+}
+td.samiul2{
+    background-color: violet;
+}
+td.samiul3{
+    background-color: violet;
+}
+
+td.samiul4{
+    background-color: violet;
+}
+center{
+    color: teal;
+    font-family: fantasy;
+}
+dfn{
+    color: brown;
+}
+bdo{
+    color: darkblue;
+    font-size: 20px;
+}
+li{
+    color: deeppink;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+th.head1{
+    background-color: seagreen;
+}
+th.head2{
+    background-color: seagreen;
+}
+th.head3{
+    background-color: seagreen;
+}
+th.head4{
+    background-color: seagreen;
+}
+td.intro{
+    color:blue;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
